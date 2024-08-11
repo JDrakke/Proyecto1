@@ -86,7 +86,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/img_7.jpg) center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img_7.jpg) center/cover no-repeat;
     color: #ffffff;
     text-align: center;
     padding: 100px 0;
@@ -128,7 +128,7 @@ nav ul li a:hover {
 }
 
 .company-info {
-    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/img_7.jpg) center/cover no-repeat;
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img_7.jpg) center/cover no-repeat;
     color: #ffffff;
     padding: 50px 0;
     text-align: center;
